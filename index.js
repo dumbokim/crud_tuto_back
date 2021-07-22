@@ -13,7 +13,7 @@ const db = mysql.createPool({
 });
 
 
-// cors policy ~~~
+// cors policy ~~~?
 app.use(cors());
 
 // request from front end
